@@ -1,0 +1,24 @@
+.social{
+    margin: 3px 0;
+}
+
+.social-horizontal{
+	float:left;
+
+}
+
+table#vkshare0 td {
+    padding:0;
+}
+.social-vertical{
+    margin: 2px 0;
+}
+div.vk {
+    width:120px;
+}
+div.twitter {
+    width:90px;
+}
+div.facebook {
+    width:150px;
+}

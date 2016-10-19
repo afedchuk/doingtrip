@@ -1,0 +1,31 @@
+Yii extension for facebook Like box with custom attributes like - show header, post, user faces, layout etc.
+It's simple and less code extension but work great.
+
+
+
+Author: Rohit Suthar <rohitsuthar@gmail.com>
+Copyright 2014 Yii Expert
+Package: fbLikeBox
+Version: 1.0
+
+For more extension & tutorials visit - https://yiiexpert.github.io
+
+
+Like Us on -  https://facebook.com/yiiexperts
+Follow Us on -  https://twitter.com/yiiexperts
+
+
+Contact Me -
+http://fb.com/rohisuthar
+
+
+For Query -
+Mail us - yiiexpert@gmail.com
+
+
+Github -
+https://github.com/yiiexpert/fbLikeBox/
+https://github.com/rohitsuthar/fbLikeBox/
+
+
+Thanks for the support!!

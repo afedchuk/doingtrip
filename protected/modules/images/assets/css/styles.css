@@ -1,0 +1,24 @@
+.image-item{
+    width:246px ;
+    float:left;
+}
+.image-link-item a {
+    color:#333 !important;
+}
+.image-link-item a.fancy {
+    height:130px;
+    display: block;
+}
+.image-item img{
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+}
+
+.image-item .set-main {
+    color:#FF7E00;
+}
+.main-photo img{
+    opacity: 0.8;
+}
+.image-comment-input textarea{
+    width:200px !important;
+}
