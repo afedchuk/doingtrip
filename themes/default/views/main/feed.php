@@ -1,0 +1,1 @@
+<?php $this->widget('rss.components.RssWidget', array('criteria' => $criteria));  ?> 
